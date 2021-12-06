@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.24)  6 DEC 2021 19:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.24)  6 DEC 2021 19:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,24 +401,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `chuangye.toc'.
 
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on input line 26.
+(Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on input line 13.
  [2] [3] [4] [5] [6]
 File: pics/logo.png Graphic file (type bmp)
 <pics/logo.png>
- [7]
+ [7] [8]
 File: Picture1.png Graphic file (type bmp)
 <Picture1.png>
- [8] [9] [10]
+ [9] [10]
 File: marketing.png Graphic file (type bmp)
 <marketing.png>
  [11] [12] [13] [14] [15] (/Users/randow/Desktop/Maketing_cource/.texpadtmp/chuangye.aux) ) 
 Here is how much of TeX's memory you used:
  7826 strings out of 476919
  226244 string characters out of 5821839
- 557984 words of memory out of 5000000
+ 560984 words of memory out of 5000000
  27706 multiletter control sequences out of 15000+600000
  407306 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,6n,104p,443b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,6n,104p,443b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/randow/Desktop/Maketing_cource/.texpadtmp/chuangye.pdf (15 pages).
