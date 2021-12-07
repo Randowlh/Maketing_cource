@@ -1,63 +1,63 @@
-\contentsline {section}{项目概要}{4}{}%
-\contentsline {section}{可行性分析}{4}{}%
-\contentsline {subsection}{项目优势与劣势}{4}{}%
-\contentsline {subsubsection}{优势分析}{4}{}%
-\contentsline {subsubsection}{劣势分析}{4}{}%
-\contentsline {subsection}{机遇分析}{4}{}%
-\contentsline {subsection}{竞争和挑战}{5}{}%
-\contentsline {subsubsection}{市场认知尚未打开}{5}{}%
-\contentsline {subsubsection}{开发线上系统设计到信息安全问题}{5}{}%
-\contentsline {subsubsection}{大公司介入相对容易}{5}{}%
-\contentsline {section}{市场分析}{6}{}%
-\contentsline {subsection}{需求背景}{6}{}%
-\contentsline {subsection}{制约因素}{6}{}%
-\contentsline {subsection}{需求分析}{7}{}%
-\contentsline {subsubsection}{业务需求}{7}{}%
-\contentsline {subsubsection}{用户需求}{7}{}%
-\contentsline {subsection}{调查报告}{7}{}%
-\contentsline {subsubsection}{企业跨组织人才管理系统使用意向调查表}{7}{}%
-\contentsline {subsubsection}{结果分析}{9}{}%
-\contentsline {section}{公司简介}{9}{}%
-\contentsline {subsection}{公司概述}{9}{}%
-\contentsline {subsection}{Logo介绍}{10}{}%
-\contentsline {subsubsection}{logo 解读}{10}{}%
-\contentsline {subsection}{企业文化}{10}{}%
-\contentsline {subsection}{经营理念}{11}{}%
-\contentsline {subsection}{管理理念}{11}{}%
-\contentsline {subsection}{管理体系}{11}{}%
-\contentsline {subsubsection}{组织架构图}{11}{}%
-\contentsline {subsection}{各部门职责}{12}{}%
-\contentsline {section}{营销策略}{12}{}%
-\contentsline {subsection}{营销综述}{12}{}%
-\contentsline {subsubsection}{核心——用户粘度}{12}{}%
-\contentsline {subsubsection}{定位——挑战与补缺}{13}{}%
-\contentsline {subsection}{推广策略}{13}{}%
-\contentsline {subsubsection}{线上推广}{13}{}%
+\contentsline {section}{\numberline {1}项目概要}{4}{}%
+\contentsline {section}{\numberline {2}可行性分析}{4}{}%
+\contentsline {subsection}{\numberline {2.1}项目优势与劣势}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}优势分析}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}劣势分析}{4}{}%
+\contentsline {subsection}{\numberline {2.2}机遇分析}{4}{}%
+\contentsline {subsection}{\numberline {2.3}竞争和挑战}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}市场认知尚未打开}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}开发线上系统设计到信息安全问题}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}大公司介入相对容易}{5}{}%
+\contentsline {section}{\numberline {3}市场分析}{6}{}%
+\contentsline {subsection}{\numberline {3.1}需求背景}{6}{}%
+\contentsline {subsection}{\numberline {3.2}制约因素}{6}{}%
+\contentsline {subsection}{\numberline {3.3}需求分析}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}业务需求}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}用户需求}{7}{}%
+\contentsline {subsection}{\numberline {3.4}调查报告}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}企业跨组织人才管理系统使用意向调查表}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}结果分析}{9}{}%
+\contentsline {section}{\numberline {4}公司简介}{9}{}%
+\contentsline {subsection}{\numberline {4.1}公司概述}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Logo介绍}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}logo 解读}{10}{}%
+\contentsline {subsection}{\numberline {4.3}企业文化}{10}{}%
+\contentsline {subsection}{\numberline {4.4}经营理念}{11}{}%
+\contentsline {subsection}{\numberline {4.5}管理理念}{11}{}%
+\contentsline {subsection}{\numberline {4.6}管理体系}{11}{}%
+\contentsline {subsubsection}{\numberline {4.6.1}组织架构图}{11}{}%
+\contentsline {subsection}{\numberline {4.7}各部门职责}{12}{}%
+\contentsline {section}{\numberline {5}营销策略}{12}{}%
+\contentsline {subsection}{\numberline {5.1}营销综述}{12}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}核心——用户粘度}{12}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}定位——挑战与补缺}{13}{}%
+\contentsline {subsection}{\numberline {5.2}推广策略}{13}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}线上推广}{13}{}%
 \contentsline {paragraph}{建立微信公众号}{13}{}%
 \contentsline {paragraph}{搜索引擎推广}{13}{}%
 \contentsline {paragraph}{在各平台发布消息和软文，树立口碑}{13}{}%
-\contentsline {subsubsection}{线下推广}{13}{}%
-\contentsline {subsection}{品牌策略}{14}{}%
-\contentsline {subsubsection}{4C理论下的营销策略}{14}{}%
-\contentsline {subsubsection}{会员制度}{15}{}%
-\contentsline {subsubsection}{深度服务}{15}{}%
-\contentsline {section}{风险分析}{16}{}%
-\contentsline {subsection}{风险预测}{16}{}%
-\contentsline {subsubsection}{市场风险}{16}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}线下推广}{13}{}%
+\contentsline {subsection}{\numberline {5.3}品牌策略}{14}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}4C理论下的营销策略}{14}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}会员制度}{15}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}深度服务}{15}{}%
+\contentsline {section}{\numberline {6}风险分析}{16}{}%
+\contentsline {subsection}{\numberline {6.1}风险预测}{16}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}市场风险}{16}{}%
 \contentsline {paragraph}{本项目创立阶段初期，可能会遭遇下列某项或多项市场风险：}{16}{}%
-\contentsline {subsubsection}{成本控制风险}{16}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}成本控制风险}{16}{}%
 \contentsline {paragraph}{除市场外因带来的风险外，本项目在创建初期还会遇到涉及资金成本的风险：}{16}{}%
-\contentsline {subsubsection}{管理风险}{17}{}%
-\contentsline {subsubsection}{技术风险}{17}{}%
-\contentsline {subsection}{风险控制}{17}{}%
-\contentsline {subsubsection}{发展新项目的独特之处}{17}{}%
-\contentsline {subsubsection}{技术创新风险的财务转移}{17}{}%
-\contentsline {subsubsection}{加强对成本的规划与预测}{17}{}%
-\contentsline {section}{财务分析}{18}{}%
-\contentsline {subsection}{财务状况}{18}{}%
-\contentsline {subsection}{会计报表}{19}{}%
-\contentsline {subsubsection}{资产负债表}{19}{}%
-\contentsline {subsubsection}{利润表}{20}{}%
-\contentsline {subsection}{财务分析}{20}{}%
-\contentsline {subsubsection}{偿债能力分析}{20}{}%
-\contentsline {subsubsection}{盈利能力分析}{21}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}管理风险}{17}{}%
+\contentsline {subsubsection}{\numberline {6.1.4}技术风险}{17}{}%
+\contentsline {subsection}{\numberline {6.2}风险控制}{17}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}发展新项目的独特之处}{17}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}技术创新风险的财务转移}{17}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}加强对成本的规划与预测}{17}{}%
+\contentsline {section}{\numberline {7}财务分析}{18}{}%
+\contentsline {subsection}{\numberline {7.1}财务状况}{18}{}%
+\contentsline {subsection}{\numberline {7.2}会计报表}{19}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}资产负债表}{19}{}%
+\contentsline {subsubsection}{\numberline {7.2.2}利润表}{20}{}%
+\contentsline {subsection}{\numberline {7.3}财务分析}{20}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}偿债能力分析}{20}{}%
+\contentsline {subsubsection}{\numberline {7.3.2}盈利能力分析}{21}{}%
