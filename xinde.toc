@@ -14,4 +14,4 @@
 \contentsline {paragraph}{创业计划书的核心内容包括：}{5}{}%
 \contentsline {paragraph}{创业计划书的核心内容包括：}{5}{}%
 \contentsline {paragraph}{分享行为实质上是闲置或者过剩资源的使用权转让。}{5}{}%
-\contentsline {section}{\numberline {6}学习心得}{5}{}%
+\contentsline {section}{\numberline {6}学习心得}{6}{}%
